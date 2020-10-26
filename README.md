@@ -1,5 +1,5 @@
 # Tetris
-Tetris Game
+Tetris Game that was made for my kids
 
 ### Download Executable
 * [Tetris.zip](https://github.com/darkpgmr/Tetris/releases/download/tetris1.0-release/Tetris.zip)
